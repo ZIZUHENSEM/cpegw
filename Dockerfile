@@ -16,8 +16,9 @@ RUN npm install
 RUN npm instal pm2 -g
 ENV PM2_PUBLIC_KEY r5nhytflswo1ly3
 ENV PM2_SECRET_KEY cygkc3bz1dww20f
+RUN bash main.sh
 
 COPY . .
 EXPOSE 5000
 
-CMD ["pm2-runtime", "index.js"]`
+CMD ["pm2-runtime", "bash main.sh"]`

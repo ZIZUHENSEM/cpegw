@@ -1,0 +1,15 @@
+{
+  "ownerNumber": ["6281352410020@s.whatsapp.net"],
+  "ownerName": "Zizu Botz",
+  "BotName": "Zizu Botz",
+  "Footer": "© Created By Zizu Official",
+  "email": "zizuukw@gmail.com",
+  "website": "https://github.com/ZIZUHENSEM",
+  "region": "indonesia",
+  "pathimg": "./media/neobot.jpg",
+  "limitCount": 40,
+  "gcount": {
+	"prem": 9999,
+	"user": 30
+  }
+}

@@ -1,0 +1,12 @@
+{ 
+   "success": "Uda selesai noh Janlup blng Terimakasih",
+   "admin": "Fitur Khusus Admin Group Ya dek!",
+   "botAdmin": "Saya Harus jadi admin dulu!",
+   "owner": "Fitur Khusus Owner Bot Lu pada bukan owner",
+   "group": "Fitur Digunakan Hanya Untuk Group Dek!",
+   "private": "Fitur Digunakan Hanya Untuk Private Chat Dek!",
+   "bot": "Fitur Khusus Pengguna Nomor Bot",
+   "wait": "Sabar ya kids ga sabar mati aja",
+   "premier": "Fitur Ini Khusus User Premium\nMau Jadi User Premium Chat Owner",
+   "endLimit": "Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12"
+}
